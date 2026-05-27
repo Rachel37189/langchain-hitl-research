@@ -37,7 +37,4 @@ inspect_*.py
 search_*.py
 test_*.py
 
-# Large media files
-*.mp4
-*.mov
-*.avi
+
